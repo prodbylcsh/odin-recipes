@@ -1,0 +1,39 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.brownie > .name {
+    color: rgb(100, 1, 1);
+}
+
+ul {
+    font-style: italic;
+    margin: auto;
+    display: table;
+}
+
+ol {
+    font-weight: bold;
+    margin: auto;
+    display: table;
+}
